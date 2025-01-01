@@ -50,5 +50,4 @@ The Secure Password Manager is a desktop application designed to help users secu
 - Password Generation: Add a feature to generate strong, random passwords for users.
 - Password Strength Checker: Include a password strength checker to ensure users create strong passwords.
 - Export/Import: Allow users to export and import their passwords securely.
-- Multi-Platform Support: Develop the application to be cross-platform, supporting Windows, macOS, and Linux.
 
